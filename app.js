@@ -6,7 +6,7 @@ function pesquisar() {
 
   // se campoPesquisa se for uma string sem nada
   if (!campoPesquisa) {
-      section.innerHTML = "<p>Nada foi encontrado. Você presisa digitou o nome do esporte</p>"
+      section.innerHTML = "<p>Nada foi encontrado. Você precisa digitou o nome do esporte</p>"
       return
   }
 
