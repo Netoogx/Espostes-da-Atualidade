@@ -15,7 +15,7 @@ Esta aplicação web permite que você pesquise rapidamente por informações so
 1. **Clone o repositório:** `git clone https://github.com/seu-usuario/busca-esportiva.git`
 2. **Instale as dependências:** `npm install`
 3. **Inicie o servidor de desenvolvimento:** `npm start`
-4. **Acesse:** http://localhost:3000
+4. **Acesse:** https://espostes-da-atualidade.vercel.app/
 
 **Contribuições:**
 
